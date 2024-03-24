@@ -20,7 +20,7 @@ Perl version 5.32.1 is used for implementation.
 3. Navigate to the directory containing the cloned repository.
 4. Execute the following command: 
 ```
-perl src/TFBSMA.pl`
+perl src/TFBSMA.pl
 ```
 5. Press enter to run the code.
 
