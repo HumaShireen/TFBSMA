@@ -1,4 +1,4 @@
-# Employing Genome-wide Transcriptional Regulatory Circuits to Predict Tissue-specific Enhancers
+# Predicting Genome-Wide Tissue-Specific Enhancers via Combinatorial Transcription Factor Genomic Occupancy Analysis
 
 ## Purpose
 This code aims to map transcription factor binding sites in any DNA sequence. In Phase-1 of the study, it was utilized to map the binding sites of 23 transcription factors, while in Phase-2, it was employed to map the binding sites of 6 core forebrain-specific transcription factors.
